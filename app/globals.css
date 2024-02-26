@@ -8,11 +8,6 @@ body {
   box-sizing: border-box;
 }
 
-.underlined {
-  border: 1px dashed transparent;
-  border-bottom-color: black; 
-}
-
 @layer utilities {
   .text-balance {
     text-wrap: balance;

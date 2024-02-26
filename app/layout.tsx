@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: 'Gabriel Accetta',
   description:
     'Portifolio website of Gabriel Accetta, Software Developer in Brazil',
+  icons: {
+    icon: '/icon.png',
+  },
 }
 
 export default function RootLayout({
